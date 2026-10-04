@@ -1,0 +1,30 @@
+{
+    "model": "Random Forest Classifier",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+        [
+            90,
+            0,
+            0
+        ],
+        [
+            0,
+            62,
+            0
+        ],
+        [
+            0,
+            0,
+            148
+        ]
+    ],
+    "classes": [
+        "MODERATE",
+        "RISKY",
+        "SAFE"
+    ],
+    "test_samples": 300
+}
